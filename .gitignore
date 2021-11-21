@@ -125,3 +125,4 @@ dmypy.json
 .pyre/
 *.csv
 *.p
+.vscode/settings.json
